@@ -33,9 +33,20 @@ We'll employ a type of supervised learning, simple linear regression, to train a
 3. From the command palette (Ctrl+Shift+P), select "Python: Select Interpreter" and choose the interpreter from your virtual environment.
 
 ```
+  
 
-I'm only adding this temporariliy in order to create enough change so I'm able to commit.
- 
+## How to Create and Start a New Jupyter Notebook
+
+```
+1. In the VS Code Explorer, create a new file. Ensure it has a .ipynb extension.
+
+2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
+
+3. Import Dependencies in a Python cell (At the Top, After the Introduction)
+
+4. Execute the cell to ensure everything works. 
+
+```
 
 
- 
+
