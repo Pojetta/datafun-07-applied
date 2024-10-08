@@ -1,6 +1,8 @@
 ## datafun-07-applied
 
-# Project 7 is a guided project on machine learning. We'll employ a type of supervised learning, simple linear regression, to train a model and use the resulting model (a "best-fit" straight line, i.e. a linear equation) to make predictions.
+# Project 7 is a guided project on machine learning. 
+
+We'll employ a type of supervised learning, simple linear regression, to train a model and use the resulting model (a "best-fit" straight line, i.e. a linear equation) to make predictions.
 
 ## How to Install and Run the Project 
 ```
@@ -32,22 +34,8 @@
 
 ```
 
-## How to Create and Start a New Jupyter Notebook
+I'm only adding this temporariliy in order to create enough change so I'm able to commit.
+ 
 
-```
-
-1. In the VS Code Explorer, create a new file. Ensure it has a .ipynb extension.
-
-2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
-
-3. Import Dependencies in a Python cell (At the Top, After the Introduction)
-
-    import matplotlib.pyplot as plt
-    import pandas as pd
-    import seaborn as sns
-
-4. Execute the cell to ensure everything works. 
-
-```
 
  
