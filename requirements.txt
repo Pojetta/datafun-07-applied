@@ -1,3 +1,4 @@
+# General packages
 jupyterlab
 numpy
 pandas
@@ -6,3 +7,8 @@ matplotlib
 seaborn
 scipy
 scikit-learn
+
+# Jupyter Notebook extensions
+jupyter-contrib-nbextensions
+
+

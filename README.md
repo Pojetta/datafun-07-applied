@@ -18,11 +18,12 @@ We'll employ a type of supervised learning, simple linear regression, to train a
 
 6. Add a requirements text (requirements.txt) with a list of the packages required for this project. 
 
-7. Install the packages listed in requirements text with: python3 -m pip install -r requirements.txt
+7. Install the packages listed in requirements text with: python3 -m pip install -r requirements.txt  
+or use `pip freeze > requirements.txt` to generate a requirements text.
 
 8. Use git add., git commit, and git push to sync local changes to remote repo in GitHUb.
 
-```
+```  
 
 ## How to set up Jupyter using VS Code
 ```
@@ -40,13 +41,17 @@ We'll employ a type of supervised learning, simple linear regression, to train a
 ```
 1. In the VS Code Explorer, create a new file. Ensure it has a .ipynb extension.
 
-2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date, the purpose of the project, and the url to your project repository).
+2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date, the purpose of the project, and the url to your project repository.).
 
 3. Import Dependencies in a Python cell (At the Top, After the Introduction)
 
 4. Execute the cell to ensure everything works. 
 
 ```
+### Additional Setup
+After installing the required packages, run the following command to enable Jupyter Notebook extensions:
+
+`jupyter contrib nbextension install --user`
 
 
 
