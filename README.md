@@ -40,7 +40,7 @@ We'll employ a type of supervised learning, simple linear regression, to train a
 ```
 1. In the VS Code Explorer, create a new file. Ensure it has a .ipynb extension.
 
-2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date and the purpose of the project).
+2. Add a Markdown cell at the top of your notebook with the introduction (include the title, author, date, the purpose of the project, and the url to your project repository).
 
 3. Import Dependencies in a Python cell (At the Top, After the Introduction)
 
